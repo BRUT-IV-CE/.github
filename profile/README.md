@@ -1,6 +1,6 @@
 <div align="center">
 
-# {PLACEHOLDER}
+# D1OSCUR3S
 
 **Two developers, one organization, zero over-engineering.**
 
@@ -24,6 +24,18 @@ We are two developers who build things for our own needs, and share them here so
 | 🛡️ | **Valentin** - [@ValentinBassot](https://github.com/ValentinBassot) | Cybersecurity |
 
 Between us, we cover the AI side and the security side of the projects we care about.
+
+## 🏛️ Why "D1OSCUR3S"
+
+The name is a leetspeak take on **Dioscures** (*Dioskouroi*). In Greek mythology, the Dioscuri are Castor and Pollux, twin sons of Zeus, known for their inseparable bond and for protecting travelers and sailors. Two brothers, one mission: that is exactly how we work.
+
+## 📜 Naming convention
+
+Our projects are named after figures and places from Greek mythology, mostly in French.
+
+| Project | Status |
+|---|---|
+| **Céos** | First project, in progress |
 
 ## 🚀 What we do
 
