@@ -29,13 +29,13 @@ Between us, we cover the AI side and the security side of the projects we care a
 
 The name is a leetspeak take on **Dioscures** (*Dioskouroi*). In Greek mythology, the Dioscuri are Castor and Pollux, twin sons of Zeus, known for their inseparable bond and for protecting travelers and sailors. Two brothers, one mission: that is exactly how we work.
 
-## 📜 Naming convention
+## 📦 Our projects
 
-Our projects are named after figures and places from Greek mythology, mostly in French.
+Like the organization itself, every project is named after a figure or a place from Greek mythology, usually under its French name. We pick a name whose story echoes what the project does.
 
-| Project | Status |
-|---|---|
-| **Céos** | First project, in progress |
+| Project | Named after | What it is | Status |
+|---|---|---|---|
+| [**Céos**](https://github.com/D1OSCUR3S/Ceos) | Coeus (*Céos*), the Titan of intellect and foresight | Modular, self-hosted AI assistant that manages your calendar and todos | 🚧 In progress |
 
 ## 🚀 What we do
 
