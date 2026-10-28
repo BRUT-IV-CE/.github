@@ -1,6 +1,9 @@
 <div align="center">
 
-# D1OSCUR3S
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1OSCUR3S/.github/main/profile/assets/logo/d1oscur3s-logo-wordmark-transparent.png" />
+  <img src="https://raw.githubusercontent.com/D1OSCUR3S/.github/main/profile/assets/logo/d1oscur3s-logo-wordmark.png" alt="D1OSCUR3S" width="420" />
+</picture>
 
 **Two developers, one organization, zero over-engineering.**
 
@@ -28,6 +31,8 @@ Between us, we cover the AI side and the security side of the projects we care a
 ## 🏛️ Why "D1OSCUR3S"
 
 The name is a leetspeak take on **Dioscures** (*Dioskouroi*). In Greek mythology, the Dioscuri are Castor and Pollux, twin sons of Zeus, known for their inseparable bond and for protecting travelers and sailors. Two brothers, one mission: that is exactly how we work.
+
+Our logo shows them as two stars: Castor in blue, Pollux in orange.
 
 ## 📦 Our projects
 
