@@ -35,7 +35,7 @@ Like the organization itself, every project is named after a figure or a place f
 
 | Project | Named after | What it is | Status |
 |---|---|---|---|
-| [**Céos**](https://github.com/D1OSCUR3S/Ceos) | Coeus (*Céos*), the Titan of intellect and foresight | Modular, self-hosted AI assistant that manages your calendar and todos | 🚧 In progress |
+| <img src="https://raw.githubusercontent.com/D1OSCUR3S/.github/main/profile/assets/ceos-logo.png" alt="Céos logo" width="20" align="center" /> [**Céos**](https://github.com/D1OSCUR3S/Ceos) | Coeus (*Céos*), the Titan of intellect and foresight | Modular, self-hosted AI assistant that manages your calendar and todos | 🚧 In progress |
 
 ## 🚀 What we do
 
